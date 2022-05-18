@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwal6394&show_icons=true&locale=en" alt="prajwal6394" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal6394&" alt="prajwal6394" /></p>
+<a href="https://app.daily.dev/Prajwal_63"><img src="https://api.daily.dev/devcards/00dbc03054874c17a4afd5fd96bd8c34.png?r=956" width="400" alt="Prajwal Pandey's Dev Card"/></a>
