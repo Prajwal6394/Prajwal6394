@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajwal Pandey</h1>
-<h3 align="center">A Final Year Computer Engineering Undergrad and a Sport Programmer</h3>
+<h3 align="center">A front-end engineer, with a keen interest in backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal6394&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal6394" /> </p>
 
