@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **prajwalpandey2009@gmail.com**
 
-- ⚡ Fun fact **I pretend to play Guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
